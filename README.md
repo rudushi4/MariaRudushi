@@ -1,41 +1,53 @@
-# Hi, I'm Maria Rudushi 👋
-
-I'm a passionate creator focused on Telegram design, YouTube Shorts production, and growing my knowledge in web development and crypto basics.
-
----
-
-### About Me
-- 🎨 Designing creative content for Telegram channels
-- 🎥 Producing engaging YouTube Shorts with emotional and trending sounds
-- 🌱 Currently learning Web Development and Blockchain fundamentals
-- 🚀 Always exploring new ways to grow and connect with the community
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=200&section=header&text=Maria%20Rudushi&fontSize=40&fontAlignY=35&desc=Creative%20Designer%20|%20YouTube%20Creator%20|%20Crypto%20Enthusiast&descAlignY=60&descAlign=50" />
+</div>
 
 ---
 
-### Skills
-- Telegram Design and Branding
-- Short-Form Video Editing (CapCut, YouTube Shorts)
-- Content Strategy and SEO (Titles, Descriptions, Tags)
-- Basic Crypto and Blockchain Knowledge
+## ✨ About Me
+- 🎨 Telegram channel designs expert
+- 🎥 YouTube Shorts creator with emotional + trending edits
+- 🌱 Learning Web Development and Blockchain tech
+- ✉️ Contact: **rudushixplore@gmail.com**
 
 ---
 
-### Let's Connect
-- [Telegram https://t.me/RudushiCrypto](https://t.me/ScriptsChats)
-- [YouTube Channel](https://youtube.com/@rudushicrypto?si=YzJT4gcrRQqro59K)
-- Email: megharudushi@gmail.com
+## 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=capcut,canva,html,css,js,figma" alt="skills" />
+</p>
 
 ---
 
-### Tools I Use
-![CapCut](https://img.shields.io/badge/CapCut-Video_Editing-blue)
-![Canva](https://img.shields.io/badge/Canva-Graphic_Designing-lightblue)
-![YouTube](https://img.shields.io/badge/YouTube-Content_Creation-red)
-![GitHub](https://img.shields.io/badge/GitHub-Profile_Building-black)
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://t.me/ScriptsChats" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://youtube.com/@rudushixplore" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:rudushixplore@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### GitHub Stats
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudushi-xplore&show_icons=true&theme=default)
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudushi-xplore&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudushi-xplore&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudushi-xplore&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## ✍️ Random Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
+
+---
+
+## 🎯 Fun Fact
+> "Consistency beats talent when talent doesn’t work hard."
 
 ---
